@@ -72,10 +72,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # "짬뽕": {
     #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
+    #   "videos": ["https://www.youtube.com/watch?v=1eKVpV5B_d0&list=RD1eKVpV5B_d0&start_radio=1"]
     # },
 
-    labels[0]:{"texts":["이에아 이에이에"]},
+    labels[0]:{"texts":["이에아 이에이에"],
+              "videos":[]},
     labels[1]:{"texts":["1등아이돌"]},
     labels[2]:{"texts":["저희는망했어여"]},
 }
