@@ -74,7 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-}
+
+    labels[0]:{"texts":["이에아 이에이에 이에아 이에아 이에아 이에이에 이라레 이레이레라"]},
+    labels[1]:{"texts":["1등아이돌1등그룹1등노래"]},
+    labels[2]:{"texts":["저희는망했어여"]},
 
 # ======================
 # 유틸
