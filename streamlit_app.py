@@ -77,7 +77,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["이에아 이에이에"],
               "videos":[]},
-    labels[1]:{"texts":["1등아이돌"]},
+    labels[1]:{"texts":["1등아이돌"],
+              "videos":["https://www.youtube.com/watch?v=1eKVpV5B_d0&list=RD1eKVpV5B_d0&start_radio=1"]},
     labels[2]:{"texts":["저희는망했어여"]},
 }
 # ======================
