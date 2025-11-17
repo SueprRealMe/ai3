@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["이에아 이에이에"],
               "videos":["https://www.youtube.com/@STUDIOCHOOM"],
-              "images":["https://namu.wiki/w/LE%20SSERAFIM"],},
+              "images":["https://i.namu.wiki/i/E6jEBYP7FI_h2QtTnZk23-P_EQ5jcuoGbkRe53GUdgllpEhacuO_JvKuGN1aSc-veGbb2yI1ICTitr3TCycnh-rz7yKYxCTJFNFNnLKvQ9PFdOc0_GFB79eu5CfrNpocOY0O5vIMTHMCexMxIlG2Ww.webp"],},
     labels[1]:{"texts":["1등아이돌"],
               "videos":["https://www.youtube.com/watch?v=1eKVpV5B_d0&list=RD1eKVpV5B_d0&start_radio=1"],
               "images":["https://plus.hankyung.com/apps/newsinside.view?aid=2024112022574&category=&sns=y"],},
