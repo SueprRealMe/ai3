@@ -77,14 +77,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["이에아 이에이에"],
               "videos":["https://www.youtube.com/@STUDIOCHOOM"],
-              "images":["https://i.namu.wiki/i/E6jEBYP7FI_h2QtTnZk23-P_EQ5jcuoGbkRe53GUdgllpEhacuO_JvKuGN1aSc-veGbb2yI1ICTitr3TCycnh-rz7yKYxCTJFNFNnLKvQ9PFdOc0_GFB79eu5CfrNpocOY0O5vIMTHMCexMxIlG2Ww.webp"],},
+              "images":["https://i.namu.wiki/i/tLU787TbNycYR9MtSDSJOK-yIz57W9c8OtdKP5fG3-TeBsRUaDLoDcA6pg96Fn1f1g-5cguTdCDx53Wce1gh3uERDA7dN8nNF8IAVK9LznIgC9Jxl4Th4Gghyp5C9VklTiPEvQtDswvOlw2sKC_V7w.webp"],},
     labels[1]:{"texts":["1등아이돌"],
               "videos":["https://www.youtube.com/watch?v=1eKVpV5B_d0&list=RD1eKVpV5B_d0&start_radio=1"],
-              "images":["https://plus.hankyung.com/apps/newsinside.view?aid=2024112022574&category=&sns=y"],},
+              "images":["https://flexible.img.hani.co.kr/flexible/normal/970/646/imgdb/original/2024/0325/20240325503097.webp"],},
     labels[2]:{"texts":["저희는망했어여"],
               "videos":["https://www.youtube.com/watch?v=z5ZnLP07Ex0&list=RDz5ZnLP07Ex0&start_radio=1"],
             
-              "images":["https://namu.wiki/w/aespa"]},
+              "images":["https://i.namu.wiki/i/E6jEBYP7FI_h2QtTnZk23-P_EQ5jcuoGbkRe53GUdgllpEhacuO_JvKuGN1aSc-veGbb2yI1ICTitr3TCycnh-rz7yKYxCTJFNFNnLKvQ9PFdOc0_GFB79eu5CfrNpocOY0O5vIMTHMCexMxIlG2Ww.webp"]},
 }
 # ======================
 # 유틸
